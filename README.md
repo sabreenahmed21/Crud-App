@@ -20,7 +20,7 @@
    ```
 <h3>the project planner :</h3>
  <p> 
-    The project is an electronic platform for university students, where the admin can add and delete study materials. It also allows users to arrange study materials 
+    The project is an electronic platform for university students, where the admin can add , edit and delete study materials and delete  user account. It also allows users to arrange study materials , add to cart and delete account
      by title alphabetically.
  </p>
 <h4>Admin Account</h4>
@@ -28,6 +28,3 @@
 
 <h4>User Account </h4>
 <p>You must create an account first</p>
-
-
-![screencapture-localhost-3000-admin-book-1-2023-09-17-22_32_56](https://github.com/sabreenahmed21/Crud-App/assets/117122016/9cc77758-cede-4b3c-a263-ff3ede752bf4)
