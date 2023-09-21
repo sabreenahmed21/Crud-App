@@ -29,6 +29,5 @@
 <h4>User Account </h4>
 <p>You must create an account first</p>
 
-![screencapture-localhost-3000-admin-2023-09-17-22_30_42](https://github.com/sabreenahmed21/Crud-App/assets/117122016/3253c27c-a48f-438f-9659-1ce17997b032)
 
 ![screencapture-localhost-3000-admin-book-1-2023-09-17-22_32_56](https://github.com/sabreenahmed21/Crud-App/assets/117122016/9cc77758-cede-4b3c-a263-ff3ede752bf4)
