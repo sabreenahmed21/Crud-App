@@ -1,5 +1,6 @@
 <h1>website using React.js & Json-server</h1>
 
+<h3>This is just a simple example of a project diagram for a course materials management system. It can be modified according to specific needs. </h3>
 
 ### Installation
 
